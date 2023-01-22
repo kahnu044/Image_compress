@@ -1542,3 +1542,16 @@ p {
       
     }
 }
+  .single-services{
+      border: 2px solid red;
+    }
+    .subscribe-area{
+      border: 2px solid red;
+    }
+    .file {
+      visibility: hidden;
+      position: absolute;
+    }
+    .browse {
+      background: white;
+    }
